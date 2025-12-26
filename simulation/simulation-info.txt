@@ -1,0 +1,9 @@
+Simulation for RFID-Based Intelligent Speed Control System
+
+This folder will contain:
+- Tinkercad simulation (.jpg or .pdf export)
+- Proteus design files (.DSN, .PDF)
+- Explanation of the virtual testing
+
+Current Status:
+Simulation will be uploaded soon.
